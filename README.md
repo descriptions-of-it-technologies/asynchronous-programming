@@ -26,6 +26,14 @@
 
 
 
+##
+* Asynchronous programming allows you to multiplex multiple networked connections on a single thread.
+* The event loop and the reactor pattern simplify asynchronous event processing.
+
+
+
+
+
 ## Las bases mas solidas sobre las que se sustenta la programacion asincrona son:
 * Execucion "no ordenada".
 * Programacion sin bloqueos.
