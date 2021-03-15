@@ -7,6 +7,7 @@
 ## Contents at a Glance.
 * [About](#about)
 * [Documentation.](#documentation)
+* [Promise and Future.]()
 * [Pros.](#pros)
 * [Cons.](#cons)
 * [Help](#help)
@@ -32,6 +33,9 @@
 
 
 
+
+## Promise and Future.
+A promise is used to write an asynchronous result, whereas a future is used to view an asynchronous result.
 
 
 ## Las bases mas solidas sobre las que se sustenta la programacion asincrona son:
