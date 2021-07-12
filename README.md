@@ -63,6 +63,14 @@ A promise is used to write an asynchronous result, whereas a future is used to v
 
 
 
+## Protocols of Asynchronous Communication
+* MQTT — Message Queue Telemetry Transport (MQTT) is an ISO standard pub-sub based lightweight messaging protocol used widely in the Internet Of Things.
+* AMQP — Advanced Message Queuing Protocol (AMQP) is an open standard application layer protocol for message-oriented middleware.
+* STOMP — Simple Text Oriented Messaging Protocol, (STOMP), is a text-based protocol modeled on HTTP for interchanging data between services.
+
+
+
+
 ##
 * From a technical point of view, an asynchronous programming means a group of design techniques, which decompose code 
   into blocks of execution (events), that can be computed with derived result (we use subscribing in order to be notified
